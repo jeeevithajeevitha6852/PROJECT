@@ -1,0 +1,37 @@
+.photo{
+    width: auto;
+    height: 400px;
+    background-color: lightpink;
+}
+.department{
+    width: auto;
+    height: 400px;
+    background-color: lightsalmon;
+}
+.collage{
+    width: auto;
+    height: 400px;
+    background-color: lightgreen;
+}
+.para{
+    text-align: center;
+    font-size: medium;
+    color: salmon;
+}
+.p{
+    text-align: center;
+    font-size: medium;
+    color: darkblue;
+    font-style: italic;
+}
+.foot{
+    text-align: center;
+    font-size: medium;
+    colour: green;
+    font-style: italic;
+}
+.elavarasi{
+    padding:20px;
+    
+
+}
